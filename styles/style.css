@@ -199,10 +199,6 @@
   background-image: url(../images/card-lot-03.jpg);
 }
 
-.card__text {
-  z-index: 1;
-}
-
 .lots__look-more-link {
   display: block;
   margin: 33px 0px 0px 40px;
