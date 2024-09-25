@@ -50,12 +50,12 @@
   line-height: 135%;
 }
 
-.address__position_header {
+.header .address {
   justify-self: end;
   padding: 0 67px 0 0;
 }
 
-.address__position_footer {
+.footer .address {
   justify-self: start;
   font-size: 18px;
 }
