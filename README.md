@@ -1,1 +1,1 @@
-https://github.com/osipovp/ono-tebe-nado.git
+github.com/CatHeisenberg/ono-tebe-nado.git
