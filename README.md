@@ -1,1 +1,1 @@
-github.com/CatHeisenberg/ono-tebe-nado.git
+https://github.com/CatHeisenberg/CatHeisenberg/ono-tebe-nado.git
